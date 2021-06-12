@@ -4,9 +4,6 @@ Datos de 487 personas vacunadas durante el VacunaGate en Perú.
 
 Archivos transcritos, validados y revisados por tuiteros voluntarios.
 
-
-(Este `.json` es actualizado automáticamente en base al `.csv`)
-
 ## Disclaimer
 
 Los datos aquí presentados, provienen de información de interés nacional que se ha hecho pública a través de los medios de prensa locales. La fuente original es el archivo pdf denominado `487vacunados.pdf`. La transcripción textual se encuentra en el acrhivo `487vacunados.csv`.
